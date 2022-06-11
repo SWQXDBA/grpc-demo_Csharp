@@ -32,3 +32,8 @@ C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\obj\Debug\grpc-demo.csproj.Co
 C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\obj\Debug\grpc-demo.csproj.CopyComplete
 C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\obj\Debug\grpc_demo.exe
 C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\obj\Debug\grpc_demo.pdb
+C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\bin\Debug\Fable.JsonConverter.dll
+C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\bin\Debug\FSharp.Core.dll
+C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\bin\Debug\FSharp.Core.xml
+C:\Users\SWQXDBA\RiderProjects\grpc-demo\grpc-demo\bin\Debug\Newtonsoft.Json.xml
