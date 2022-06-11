@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEk6NG0s1yk1W64RX5yIiVGI6PO3goy0XwCRWQzrF2i1NbozTrUkoodzYBsL2RTjfn1rzpWm23qee/tXymUzBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SWQXDBA\\RiderProjects\\grpc-demo\\grpc-demo\\proto\\proto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SWQXDBA\\.nuget\\packages\\grpc.tools\\2.46.3\\grpc.tools.2.46.3.nupkg.sha512"
+  ],
+  "logs": []
+}

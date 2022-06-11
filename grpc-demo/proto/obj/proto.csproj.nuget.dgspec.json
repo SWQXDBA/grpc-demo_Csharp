@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SWQXDBA\\RiderProjects\\grpc-demo\\grpc-demo\\proto\\proto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SWQXDBA\\RiderProjects\\grpc-demo\\grpc-demo\\proto\\proto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SWQXDBA\\RiderProjects\\grpc-demo\\grpc-demo\\proto\\proto.csproj",
+        "projectName": "proto",
+        "projectPath": "C:\\Users\\SWQXDBA\\RiderProjects\\grpc-demo\\grpc-demo\\proto\\proto.csproj",
+        "packagesPath": "C:\\Users\\SWQXDBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SWQXDBA\\RiderProjects\\grpc-demo\\grpc-demo\\proto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SWQXDBA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repo.huaweicloud.com/repository/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Grpc.Tools": {
+              "target": "Package",
+              "version": "[2.46.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
